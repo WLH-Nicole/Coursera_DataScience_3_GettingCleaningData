@@ -16,7 +16,7 @@
 
 - <span style="color:blue">activity_labels.txt</span>: Links the class labels with their activity name.
 
-- <span style="color:blue">features.txt</span>: List of all features. Each feature vector is a row on the text file. Features are normalized and bounded within [-1,1]
+- <span style="color:blue">features.txt</span>: List of all features. Each feature vector is a row on the text file. Features are normalized and bounded within [-1,1].
 
 
 ### Analysis: 
