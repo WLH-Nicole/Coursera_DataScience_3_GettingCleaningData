@@ -1,5 +1,5 @@
-## Getting and Cleaning Data Course Project 1 
-###  (Coursera - Data Science specialization)   
+## Getting and Cleaning Data (Coursera - Data Science specialization)  
+## Course Project 1 
 
 ### Description
 > The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
